@@ -1,0 +1,15 @@
+Package: Homework
+Version: 0.1
+Date: 2021-04-25
+Description: Fruit Snacks project arranged for myBinder.org
+Author: Vilém Knap
+Depends:
+    R (>= 3.5.0)
+Imports:
+    broman,
+    knitr,
+    rmarkdown,
+    caTools,
+    bitops,
+    rprojroot,
+    dplyr	
